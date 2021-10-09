@@ -1,13 +1,192 @@
-var data = 
+var data =
 {
   "title": {
     "text": {
-      "headline": "Title of the timeline",
-      "text": "Story of the timeline"
+      "headline": "Tutur Tinular Sejarah Indonesia",
+      "text": "Lini masa sejarah, bagaimana Indonesia sekarang bisa menjadi muara peradaban dunia"
     },
-    "unique_id": "4730ec4b-870e-efd9-3f92-2eac94e92aef"
+    "media": {
+      "url": "https://3.bp.blogspot.com/-lOKCRqfcTko/XMWeWJp2juI/AAAAAAAAEGQ/djzuS6s3SWcDnctsq0Aoa3LvgfrIIxJyQCLcBGAs/s640/nfhfjfhfhrthrthrthrbfhfhth.jpg",
+      "caption": "",
+      "thumbnail": "",
+      "link": "",
+      "mediatype": {
+        "type": "image",
+        "name": "Image",
+        "match_str": {}
+      }
+    },
+    "background": {
+      "url": "",
+      "color": ""
+    },
+    "unique_id": "tuturatinularasejarahaindonesia"
   },
   "events": [
+    {
+      "start_date": {
+        "year": -4000,
+        "date_obj": "-004001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1532044863/ui19vk2m7q0dbauktzm6.jpg",
+        "caption": "Suku Formosa",
+        "thumbnail": "",
+        "link": "https://kumparan.com/kumparantravel/suku-formosa-penduduk-asli-taiwan-yang-mirip-suku-dayak-di-indonesia-27431110790551506",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Formosa",
+        "text": "Para penjelajah Austronesian tiba di pulau Formosa"
+      },
+      "unique_id": "07c462c2-d91d-8e00-5b65-4a52505024c7"
+    },
+    {
+      "start_date": {
+        "year": -3800,
+        "date_obj": "-003801-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://lh3.googleusercontent.com/proxy/fgQ44e23dq33jhVhTL5k4mS6nfTvqWVm7oevPL-CMTi34fEt1rVxjKWh-ATFN7UYKM9UAMZvWw0pv97g66TiDeWxQe1aNlnb7GFlXLql3McpqbYEc1oN7OY9NG5WMhER33gK8MroZZY",
+        "caption": "",
+        "thumbnail": "",
+        "link": "http://www.sci-news.com/othersciences/anthropology/taiwan-ryukyu-islands-migration-09124.html",
+        "mediatype": {
+          "type": "imageblank",
+          "name": "Imageblank",
+          "match_str": ""
+        }
+      },
+      "text": {
+        "headline": "Ryukyu Islands",
+        "text": "Para penjelahan Austronesians mulai mendarat dan bermukim di kepulauan Ryukyu"
+      },
+      "unique_id": "a97ca6c2-696a-8e82-3e0f-2c3f1aedfae1"
+    },
+    {
+      "start_date": {
+        "year": -3500,
+        "date_obj": "-003501-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": -3000,
+        "date_obj": "-003001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://lh3.googleusercontent.com/proxy/Hp3ejyFTsxrl8xq0LKGSlH3qTv5bPURsU4Nz_HfiZAsMpcKZFIjwVUnlIxonV6r_LjwOyv-v3eovYFQEwreuW19XRH6M6XfT5vkq5ydIHE-7WFDv8b2pbKBo57r8Xm2DthH0",
+        "caption": "",
+        "thumbnail": "",
+        "link": "http://www.onetribetattoo.com/history/filipino-tattoos.php",
+        "mediatype": {
+          "type": "imageblank",
+          "name": "Imageblank",
+          "match_str": ""
+        }
+      },
+      "text": {
+        "headline": "Luzon (Filipina Utara)",
+        "text": "Penjelajah Austronesian sampai di Luzon, bagian utara Filipina."
+      },
+      "unique_id": "0a957d4e-02d1-d87c-98d3-2f31ee0ca2af"
+    },
+    {
+      "start_date": {
+        "year": -3000,
+        "date_obj": "-003001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "thumbnail": "",
+        "link": ""
+      },
+      "text": {
+        "headline": "Sulawesi",
+        "text": "Para penjelajah Austronesians sampai di Pulau Sulawesi"
+      },
+      "unique_id": "f9242910-6fdd-da54-5ce6-b032ca7e2fbd"
+    },
+    {
+      "start_date": {
+        "year": -2500,
+        "date_obj": "-002501-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/ea3778fb-7a0f-4d71-3035-4af6d10c6200/medium",
+        "caption": "",
+        "thumbnail": "",
+        "link": "",
+        "mediatype": {
+          "type": "imageblank",
+          "name": "Imageblank",
+          "match_str": ""
+        }
+      },
+      "text": {
+        "headline": "Kalimantan",
+        "text": "Para penjelajah Austronesians sampai di Pulau Kalimantan."
+      },
+      "unique_id": "d13e3556-5886-8d2c-37d9-fd7fbb0681b6"
+    },
+    {
+      "start_date": {
+        "year": -2000,
+        "date_obj": "-002001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "thumbnail": "",
+        "link": ""
+      },
+      "text": {
+        "headline": "Jawa",
+        "text": "Para penjelajah Austronesia sampai di pulau Jawa."
+      },
+      "unique_id": "9be20c88-cbd3-f9cc-fffa-70bd04c7cd79"
+    },
+    {
+      "start_date": {
+        "year": -1500,
+        "date_obj": "-001501-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/58971f36-ac2c-4996-d7ba-01dd5fce9f00/medium",
+        "caption": "",
+        "thumbnail": "",
+        "link": "",
+        "mediatype": {
+          "type": "imageblank",
+          "name": "Imageblank",
+          "match_str": ""
+        }
+      },
+      "text": {
+        "headline": "Sumatra",
+        "text": "Para penjelajah Austronesia sampai di Pulau Sumatra."
+      },
+      "unique_id": "e9cba883-9aa3-15d9-07e8-4f32565d4980"
+    },
     {
       "start_date": {
         "year": -5,
@@ -33,10 +212,10 @@ var data =
         }
       },
       "text": {
-        "headline": "Kebudayaan Buni di daerah Bekasi",
-        "text": "Ditemukannya artefak keramik di daerah Buni, di Bekasi, menunjukkan adanya peradaban yang diperkirakan hidup di sekitar 400 SM."
+        "headline": "Kebudayaan Buni (protosejarah pesisir utara Banten dan Jawa Barat)",
+        "text": "Kebudayaan Buni adalah sebutan bagi suatu kebudayaan protosejarah di pesisir utara Banten dan Jawa Barat yang muncul pada masa akhir pra-Masehi hingga sekitar abad ke-5 Masehi. Kebudayaan ini dinamai berdasarkan lokasi penemuan pertamanya di Buni, Babelan, Bekasi di sebelah timur Jakarta.\n<br><br>\nKeramik Buni mirip corak Sa Huynh dari Vietnam.\n<br><br>\nCiri-ciri dari kebudayaan prasejarah ini adalah banyaknya penggunaan gerabah seperti piring, periuk, kendi, serta peralatan sehari-hari lainnya. Beberapa unsur tradisi megalitikum dapat juga dilihat, seperti penyertaan bekal kubur, mayat yang dilengkapi manik-manik, serta beberapa menhir dan dolmen. Masyarakat pendukung kebudayaan Buni diperkirakan telah mengadakan hubungan perdagangan dengan bangsa lain. Kerajaan Taruma dianggap sebagai kerajaan yang masih menggunakan banyak unsur kebudayaan ini, meskipun penguasanya telah menganut agama Hindu."
       },
-      "unique_id": "ed651175-b0cb-68b0-d846-56afa885181d"
+      "unique_id": "d1c31384-6629-391e-5297-3e01db94752f"
     },
     {
       "start_date": {
