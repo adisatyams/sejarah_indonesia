@@ -1,4 +1,4 @@
-var data =
+var data = 
 {
   "title": {
     "text": {
@@ -6,7 +6,7 @@ var data =
       "text": "Lini masa sejarah, bagaimana Indonesia sekarang bisa menjadi muara peradaban dunia"
     },
     "media": {
-      "url": "https://3.bp.blogspot.com/-lOKCRqfcTko/XMWeWJp2juI/AAAAAAAAEGQ/djzuS6s3SWcDnctsq0Aoa3LvgfrIIxJyQCLcBGAs/s640/nfhfjfhfhrthrthrthrbfhfhth.jpg",
+      "url": "",
       "caption": "",
       "thumbnail": "",
       "link": "",
@@ -17,12 +17,55 @@ var data =
       }
     },
     "background": {
-      "url": "",
+      "url": "https://3.bp.blogspot.com/-lOKCRqfcTko/XMWeWJp2juI/AAAAAAAAEGQ/djzuS6s3SWcDnctsq0Aoa3LvgfrIIxJyQCLcBGAs/s640/nfhfjfhfhrthrthrthrbfhfhth.jpg",
       "color": ""
     },
     "unique_id": "tuturatinularasejarahaindonesia"
   },
   "events": [
+    {
+      "start_date": {
+        "year": -50000,
+        "date_obj": "-050001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://youtu.be/Eq30dLV-bfo",
+        "caption": "",
+        "thumbnail": "",
+        "link": "",
+        "mediatype": {
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
+        }
+      },
+      "text": {
+        "headline": "Gelombang I",
+        "text": "Gelombang I \"Out of Africa\"\n<br><br>\nKala itu Sumatera, Kalimantan dan Jawa masih satu kesatuan Sundaland atau Paparan Sunda."
+      },
+      "unique_id": "15bf3f76-bb42-2deb-fb4a-4a015a4cda28"
+    },
+    {
+      "start_date": {
+        "year": -20000,
+        "date_obj": "-020001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "thumbnail": "",
+        "link": ""
+      },
+      "text": {
+        "headline": "Gelombang II",
+        "text": "Gelombang kedua adalah kontribusi dari Asia daratan. Ini adalah kelompok yang menuturkan Bahasa Astroasiatrik. Mereka berpindah ke selatan masuk ke Nusantara dari daratan Aisa melewati Semenanjung Malaya. Saat itu, Semenanjung Malaya masih menyatu dengan Sumatera, Jawa dan Kalimantan."
+      },
+      "unique_id": "d164a389-eb4e-4d40-50be-33768e4e994e"
+    },
     {
       "start_date": {
         "year": -4000,
@@ -49,27 +92,27 @@ var data =
     },
     {
       "start_date": {
-        "year": -3800,
-        "date_obj": "-003801-12-31T16:52:48.000Z",
+        "year": -4000,
+        "date_obj": "-004001-12-31T16:52:48.000Z",
         "format": "year",
         "format_short": "year"
       },
       "media": {
-        "url": "https://lh3.googleusercontent.com/proxy/fgQ44e23dq33jhVhTL5k4mS6nfTvqWVm7oevPL-CMTi34fEt1rVxjKWh-ATFN7UYKM9UAMZvWw0pv97g66TiDeWxQe1aNlnb7GFlXLql3McpqbYEc1oN7OY9NG5WMhER33gK8MroZZY",
+        "url": "https://youtu.be/Lzgb8yHmaes",
         "caption": "",
         "thumbnail": "",
-        "link": "http://www.sci-news.com/othersciences/anthropology/taiwan-ryukyu-islands-migration-09124.html",
+        "link": "",
         "mediatype": {
-          "type": "imageblank",
-          "name": "Imageblank",
-          "match_str": ""
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
         }
       },
       "text": {
-        "headline": "Ryukyu Islands",
-        "text": "Para penjelahan Austronesians mulai mendarat dan bermukim di kepulauan Ryukyu"
+        "headline": "Gelombang III",
+        "text": "Gelombang ketiga merupakan ekspansi dari Utara. Pada periode sekitar 4.000 SM, mereka bermigrasi dari daerah Cina Selatan, menyebar ke Taiwan, Filipina, lalu ke Sulawesi, Kalimantan, kemudian Jawa dan Sumatra.\n<br><br>\nBahkan lebih jauh, diaspora Austronesia ini sampai ke Madagaskar dan Pulau Paskah di dekat Amerika."
       },
-      "unique_id": "a97ca6c2-696a-8e82-3e0f-2c3f1aedfae1"
+      "unique_id": "42e0e67c-386b-c3a1-15bb-a2a8918f429d"
     },
     {
       "start_date": {
@@ -109,16 +152,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "",
+        "url": "https://zermatism.files.wordpress.com/2019/02/2016_11_02_15140_1478061509._large.jpg",
         "caption": "",
         "thumbnail": "",
-        "link": ""
+        "link": "",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
       },
       "text": {
         "headline": "Sulawesi",
         "text": "Para penjelajah Austronesians sampai di Pulau Sulawesi"
       },
-      "unique_id": "f9242910-6fdd-da54-5ce6-b032ca7e2fbd"
+      "unique_id": "2ab26794-60c8-7fc2-6422-8375a8eeb17b"
     },
     {
       "start_date": {
@@ -171,7 +219,7 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/58971f36-ac2c-4996-d7ba-01dd5fce9f00/medium",
+        "url": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/e05986ca-10a0-44fb-d4bd-2f28161b1700/medium",
         "caption": "",
         "thumbnail": "",
         "link": "",
