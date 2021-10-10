@@ -163,21 +163,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1532044863/ui19vk2m7q0dbauktzm6.jpg",
+        "url": "https://youtu.be/zjiliPy3fZE",
         "caption": "Suku Formosa",
         "thumbnail": "",
-        "link": "https://kumparan.com/kumparantravel/suku-formosa-penduduk-asli-taiwan-yang-mirip-suku-dayak-di-indonesia-27431110790551506",
+        "link": "",
         "mediatype": {
-          "type": "image",
-          "name": "Image",
-          "match_str": {}
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
         }
       },
       "text": {
         "headline": "Formosa",
-        "text": "Para penjelajah Austronesian tiba di pulau Formosa"
+        "text": "Para penjelajah Austronesian tiba di pulau Formosa.\n<br><br>\nSuku Formosa merupakan kelompok orang berbahasa Austronesia yang terbagi menjadi belasan suku. Suku-suku pecahan dari suku Formosa memiliki perawakan yang sama dengan suku Dayak di Kalimantan, Indonesia dan tinggal di berbagai tempat di Taiwan."
       },
-      "unique_id": "e80b45fb-6fc4-c391-1898-1bdd5ff5f3fe"
+      "unique_id": "479acd9d-fe3e-bcb9-c901-60afff4803e0"
     },
     {
       "start_date": {
@@ -193,21 +193,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "https://lh3.googleusercontent.com/proxy/Hp3ejyFTsxrl8xq0LKGSlH3qTv5bPURsU4Nz_HfiZAsMpcKZFIjwVUnlIxonV6r_LjwOyv-v3eovYFQEwreuW19XRH6M6XfT5vkq5ydIHE-7WFDv8b2pbKBo57r8Xm2DthH0",
+        "url": "https://youtu.be/puEVpKcTeZk",
         "caption": "",
         "thumbnail": "",
-        "link": "http://www.onetribetattoo.com/history/filipino-tattoos.php",
+        "link": "",
         "mediatype": {
-          "type": "imageblank",
-          "name": "Imageblank",
-          "match_str": ""
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
         }
       },
       "text": {
         "headline": "Luzon (Filipina Utara)",
-        "text": "Penjelajah Austronesian sampai di Luzon, bagian utara Filipina."
+        "text": "Penjelajah Austronesian sampai di Luzon, bagian utara Filipina.\n<br>\nBanyak kesamaan adat istiadat dan budaya yang sangat mirip dengan suku-suku yang ada di Indonesia.\n<br>\nCara mereka menyebut Bale saja, maknanya sama dengan di sini."
       },
-      "unique_id": "0a957d4e-02d1-d87c-98d3-2f31ee0ca2af"
+      "unique_id": "ef72edfd-3d66-cb36-1894-1e0e2a3f8fff"
     },
     {
       "start_date": {
@@ -217,21 +217,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "https://zermatism.files.wordpress.com/2019/02/2016_11_02_15140_1478061509._large.jpg",
+        "url": "https://youtu.be/6x46n9viTts",
         "caption": "",
         "thumbnail": "",
         "link": "",
         "mediatype": {
-          "type": "image",
-          "name": "Image",
-          "match_str": {}
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
         }
       },
       "text": {
         "headline": "Sulawesi",
         "text": "Para penjelajah Austronesians sampai di Pulau Sulawesi"
       },
-      "unique_id": "2ab26794-60c8-7fc2-6422-8375a8eeb17b"
+      "unique_id": "a6a069ad-04b8-5b40-ab90-5480176567ab"
     },
     {
       "start_date": {
@@ -241,21 +241,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/ea3778fb-7a0f-4d71-3035-4af6d10c6200/medium",
+        "url": "https://youtu.be/h20WtQl34SQ",
         "caption": "",
         "thumbnail": "",
         "link": "",
         "mediatype": {
-          "type": "imageblank",
-          "name": "Imageblank",
-          "match_str": ""
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
         }
       },
       "text": {
         "headline": "Kalimantan",
         "text": "Para penjelajah Austronesians sampai di Pulau Kalimantan."
       },
-      "unique_id": "d13e3556-5886-8d2c-37d9-fd7fbb0681b6"
+      "unique_id": "e9dc2565-cd79-9280-105e-ad292ab58857"
     },
     {
       "start_date": {
@@ -265,16 +265,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "",
+        "url": "https://youtu.be/hBuifj0X4Xw",
         "caption": "",
         "thumbnail": "",
-        "link": ""
+        "link": "",
+        "mediatype": {
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
+        }
       },
       "text": {
         "headline": "Jawa",
-        "text": "Para penjelajah Austronesia sampai di pulau Jawa."
+        "text": "Para penjelajah Austronesia sampai di pulau Jawa.<br>\nJejak yang masih mirip dengan kebiasaan adat dan budaya dari suku lain di Utara, adalah di suku Baduy."
       },
-      "unique_id": "9be20c88-cbd3-f9cc-fffa-70bd04c7cd79"
+      "unique_id": "025052f1-ef31-9fff-88a9-3b76bcff1153"
     },
     {
       "start_date": {
@@ -284,21 +289,45 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/e05986ca-10a0-44fb-d4bd-2f28161b1700/medium",
+        "url": "https://youtu.be/2kwAxsA3mGA",
         "caption": "",
         "thumbnail": "",
         "link": "",
         "mediatype": {
-          "type": "imageblank",
-          "name": "Imageblank",
-          "match_str": ""
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
         }
       },
       "text": {
-        "headline": "Sumatra",
-        "text": "Para penjelajah Austronesia sampai di Pulau Sumatra."
+        "headline": "Mentawai",
+        "text": "Perjalanan suku Austronesia sampai ke Mentawai."
       },
-      "unique_id": "e9cba883-9aa3-15d9-07e8-4f32565d4980"
+      "unique_id": "0ee4bd12-ba72-dc21-1cf6-6c0af06d3183"
+    },
+    {
+      "start_date": {
+        "year": -1400,
+        "date_obj": "-001401-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://youtu.be/juOAY5pvZ28",
+        "caption": "",
+        "thumbnail": "",
+        "link": "",
+        "mediatype": {
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
+        }
+      },
+      "text": {
+        "headline": "Nias",
+        "text": "Para penjelajah Austronesia sampai di Pulau Sumatra.<br>\nJejaknya masih terlihat jelas di Nias."
+      },
+      "unique_id": "187c9024-5a9b-ede0-71c4-95ddf6ae585b"
     },
     {
       "start_date": {
