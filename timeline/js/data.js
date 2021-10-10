@@ -81,7 +81,7 @@ var data =
       "media": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Austroasiatic-en.svg/600px-Austroasiatic-en.svg.png",
         "caption": "",
-        "thumbnail": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/3196d5d5-1332-40fb-fd05-4a2f54d38300/thumb",
+        "thumbnail": "",
         "link": "https://en.wikipedia.org/wiki/Austroasiatic_languages",
         "mediatype": {
           "type": "image",
@@ -93,7 +93,7 @@ var data =
         "headline": "Gelombang II",
         "text": "Gelombang kedua adalah kontribusi dari Asia daratan. Ini adalah kelompok yang menuturkan Bahasa Astroasiatrik. Mereka berpindah ke selatan masuk ke Nusantara dari daratan Aisa melewati Semenanjung Malaya. Saat itu, Semenanjung Malaya masih menyatu dengan Sumatera, Jawa dan Kalimantan."
       },
-      "unique_id": "690e4546-5b81-6004-bfa0-58e4ad5dd592"
+      "unique_id": "c4fc2f90-14b8-9ff5-a8ee-84fc2998c546"
     },
     {
       "start_date": {
@@ -133,30 +133,6 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1532044863/ui19vk2m7q0dbauktzm6.jpg",
-        "caption": "Suku Formosa",
-        "thumbnail": "",
-        "link": "https://kumparan.com/kumparantravel/suku-formosa-penduduk-asli-taiwan-yang-mirip-suku-dayak-di-indonesia-27431110790551506",
-        "mediatype": {
-          "type": "image",
-          "name": "Image",
-          "match_str": {}
-        }
-      },
-      "text": {
-        "headline": "Formosa",
-        "text": "Para penjelajah Austronesian tiba di pulau Formosa"
-      },
-      "unique_id": "07c462c2-d91d-8e00-5b65-4a52505024c7"
-    },
-    {
-      "start_date": {
-        "year": -4000,
-        "date_obj": "-004001-12-31T16:52:48.000Z",
-        "format": "year",
-        "format_short": "year"
-      },
-      "media": {
         "url": "https://youtu.be/Lzgb8yHmaes",
         "caption": "",
         "thumbnail": "",
@@ -172,6 +148,30 @@ var data =
         "text": "Gelombang ketiga merupakan ekspansi dari Utara. Pada periode sekitar 4.000 SM, mereka bermigrasi dari daerah Cina Selatan, menyebar ke Taiwan, Filipina, lalu ke Sulawesi, Kalimantan, kemudian Jawa dan Sumatra.\n<br><br>\nBahkan lebih jauh, diaspora Austronesia ini sampai ke Madagaskar dan Pulau Paskah di dekat Amerika."
       },
       "unique_id": "42e0e67c-386b-c3a1-15bb-a2a8918f429d"
+    },
+    {
+      "start_date": {
+        "year": -3900,
+        "date_obj": "-003901-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1532044863/ui19vk2m7q0dbauktzm6.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://kumparan.com/kumparantravel/suku-formosa-penduduk-asli-taiwan-yang-mirip-suku-dayak-di-indonesia-27431110790551506",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Formosa Taiwan",
+        "text": "Pengembara Austronesia dari Cina daratan sampai di Pulau Formosa, atau Taiwan sekarang."
+      },
+      "unique_id": "1cc134e8-2251-f618-0752-39597eb31f3f"
     },
     {
       "start_date": {
