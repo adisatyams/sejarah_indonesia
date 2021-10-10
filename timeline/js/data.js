@@ -25,6 +25,30 @@ var data =
   "events": [
     {
       "start_date": {
+        "year": -72000,
+        "date_obj": "-072001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://miro.medium.com/max/781/0*3Xg97IWVGxGb2W8h.jpg",
+        "caption": "Ilustrasi letusan Gunung Toba",
+        "thumbnail": "",
+        "link": "https://medium.com/@seputarmedan/inilah-dampaknya-jika-suatu-hari-danau-toba-meletus-e5b1cf9ef841",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Letusan Gunung Toba",
+        "text": "Erupsi super yang pernah dihasilkan oleh Gunung Toba di Sumatera Utara sekitar 74.000 tahun lalu.\n<br><br>\nKemungkinan besar letusan ini yang melenyapkan penghuni Sundaland awal yaitu Phitecantropus Erectus."
+      },
+      "unique_id": "30bbf7f6-90cc-3638-2f08-2fdbd4f2a464"
+    },
+    {
+      "start_date": {
         "year": -50000,
         "date_obj": "-050001-12-31T16:52:48.000Z",
         "format": "year",
@@ -33,7 +57,7 @@ var data =
       "media": {
         "url": "https://youtu.be/Eq30dLV-bfo",
         "caption": "",
-        "thumbnail": "",
+        "thumbnail": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/3196d5d5-1332-40fb-fd05-4a2f54d38300/thumb",
         "link": "",
         "mediatype": {
           "type": "youtube",
@@ -45,7 +69,7 @@ var data =
         "headline": "Gelombang I",
         "text": "Gelombang I \"Out of Africa\"\n<br>\nKala itu Sumatera, Kalimantan dan Jawa masih satu kesatuan Sundaland atau Paparan Sunda."
       },
-      "unique_id": "0740fe15-bf43-738f-7f33-1644bbff0380"
+      "unique_id": "73a9ad8a-8da7-7e6f-7244-57119f0b4b12"
     },
     {
       "start_date": {
@@ -55,10 +79,10 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Map_of_Sunda_and_Sahul.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Austroasiatic-en.svg/600px-Austroasiatic-en.svg.png",
         "caption": "",
-        "thumbnail": "",
-        "link": "https://id.wikipedia.org/wiki/Sundaland",
+        "thumbnail": "https://imagedelivery.net/MdL7uuCpmXn6g4HuNb8aTw/3196d5d5-1332-40fb-fd05-4a2f54d38300/thumb",
+        "link": "https://en.wikipedia.org/wiki/Austroasiatic_languages",
         "mediatype": {
           "type": "image",
           "name": "Image",
@@ -69,7 +93,7 @@ var data =
         "headline": "Gelombang II",
         "text": "Gelombang kedua adalah kontribusi dari Asia daratan. Ini adalah kelompok yang menuturkan Bahasa Astroasiatrik. Mereka berpindah ke selatan masuk ke Nusantara dari daratan Aisa melewati Semenanjung Malaya. Saat itu, Semenanjung Malaya masih menyatu dengan Sumatera, Jawa dan Kalimantan."
       },
-      "unique_id": "2f4df0ce-73e7-90e8-8cc4-725ee1d29a82"
+      "unique_id": "690e4546-5b81-6004-bfa0-58e4ad5dd592"
     },
     {
       "start_date": {
@@ -85,16 +109,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Map_of_Sunda_and_Sahul.png/780px-Map_of_Sunda_and_Sahul.png",
         "caption": "",
         "thumbnail": "",
-        "link": ""
+        "link": "https://en.wikipedia.org/wiki/Sundaland",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
       },
       "text": {
         "headline": "Sundaland Tenggelam",
         "text": "Benua Sundaland tenggelam pelan-pelan dari 18 ribu tahun lalu masa Last Glacial ke masa Holocene"
       },
-      "unique_id": "bf1a6d93-ac65-dc89-ac15-0e3417f968a7"
+      "unique_id": "54e22ebc-6acf-e87f-6896-12fa2bf2a37e"
     },
     {
       "start_date": {
@@ -264,6 +293,31 @@ var data =
         "text": "Para penjelajah Austronesia sampai di Pulau Sumatra."
       },
       "unique_id": "e9cba883-9aa3-15d9-07e8-4f32565d4980"
+    },
+    {
+      "start_date": {
+        "year": -700,
+        "date_obj": "-000701-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": -400,
+        "date_obj": "-000401-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "thumbnail": "",
+        "link": ""
+      },
+      "text": {
+        "headline": "Ramayana",
+        "text": "Dalam teks Ramayana, tersebut Suvarna-rupyakam dan Yavadvipam, dihiasi sapta-rajya-upasobhitam.\n<br>\nCara mencapainya disebut dengan melalui pegunungan, dengan berenang atau dengan sampan kecil."
+      },
+      "unique_id": "63fe1a14-68d7-0a71-5604-5f2eb2db2993"
     },
     {
       "start_date": {
