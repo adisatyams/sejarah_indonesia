@@ -43,14 +43,44 @@ var data =
       },
       "text": {
         "headline": "Gelombang I",
-        "text": "Gelombang I \"Out of Africa\"\n<br><br>\nKala itu Sumatera, Kalimantan dan Jawa masih satu kesatuan Sundaland atau Paparan Sunda."
+        "text": "Gelombang I \"Out of Africa\"\n<br>\nKala itu Sumatera, Kalimantan dan Jawa masih satu kesatuan Sundaland atau Paparan Sunda."
       },
-      "unique_id": "15bf3f76-bb42-2deb-fb4a-4a015a4cda28"
+      "unique_id": "0740fe15-bf43-738f-7f33-1644bbff0380"
     },
     {
       "start_date": {
         "year": -20000,
         "date_obj": "-020001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Map_of_Sunda_and_Sahul.png",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Sundaland",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Gelombang II",
+        "text": "Gelombang kedua adalah kontribusi dari Asia daratan. Ini adalah kelompok yang menuturkan Bahasa Astroasiatrik. Mereka berpindah ke selatan masuk ke Nusantara dari daratan Aisa melewati Semenanjung Malaya. Saat itu, Semenanjung Malaya masih menyatu dengan Sumatera, Jawa dan Kalimantan."
+      },
+      "unique_id": "2f4df0ce-73e7-90e8-8cc4-725ee1d29a82"
+    },
+    {
+      "start_date": {
+        "year": -18000,
+        "date_obj": "-018001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": -12000,
+        "date_obj": "-012001-12-31T16:52:48.000Z",
         "format": "year",
         "format_short": "year"
       },
@@ -61,10 +91,10 @@ var data =
         "link": ""
       },
       "text": {
-        "headline": "Gelombang II",
-        "text": "Gelombang kedua adalah kontribusi dari Asia daratan. Ini adalah kelompok yang menuturkan Bahasa Astroasiatrik. Mereka berpindah ke selatan masuk ke Nusantara dari daratan Aisa melewati Semenanjung Malaya. Saat itu, Semenanjung Malaya masih menyatu dengan Sumatera, Jawa dan Kalimantan."
+        "headline": "Sundaland Tenggelam",
+        "text": "Benua Sundaland tenggelam pelan-pelan dari 18 ribu tahun lalu masa Last Glacial ke masa Holocene"
       },
-      "unique_id": "d164a389-eb4e-4d40-50be-33768e4e994e"
+      "unique_id": "bf1a6d93-ac65-dc89-ac15-0e3417f968a7"
     },
     {
       "start_date": {
@@ -264,6 +294,31 @@ var data =
         "text": "Kebudayaan Buni adalah sebutan bagi suatu kebudayaan protosejarah di pesisir utara Banten dan Jawa Barat yang muncul pada masa akhir pra-Masehi hingga sekitar abad ke-5 Masehi. Kebudayaan ini dinamai berdasarkan lokasi penemuan pertamanya di Buni, Babelan, Bekasi di sebelah timur Jakarta.\n<br><br>\nKeramik Buni mirip corak Sa Huynh dari Vietnam.\n<br><br>\nCiri-ciri dari kebudayaan prasejarah ini adalah banyaknya penggunaan gerabah seperti piring, periuk, kendi, serta peralatan sehari-hari lainnya. Beberapa unsur tradisi megalitikum dapat juga dilihat, seperti penyertaan bekal kubur, mayat yang dilengkapi manik-manik, serta beberapa menhir dan dolmen. Masyarakat pendukung kebudayaan Buni diperkirakan telah mengadakan hubungan perdagangan dengan bangsa lain. Kerajaan Taruma dianggap sebagai kerajaan yang masih menggunakan banyak unsur kebudayaan ini, meskipun penguasanya telah menganut agama Hindu."
       },
       "unique_id": "d1c31384-6629-391e-5297-3e01db94752f"
+    },
+    {
+      "start_date": {
+        "year": 100,
+        "date_obj": "0099-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": 170,
+        "date_obj": "0169-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "thumbnail": "",
+        "link": ""
+      },
+      "text": {
+        "headline": "Geography Claudius Ptolemy",
+        "text": "Seorang cendekia Romawi Kuno, Claudius Ptolemy, dalam karyanya Geography menulis ada tempat bernama Aurea Cersonese, The Golden Peninsula.\n<br>\nSebuah tempat setelah Sungai Gangga India. Disebut Aurea Cersonese, atau Golden Peninsula, karena ditempat ini adalah pulau dengan penduduk yang semuanya memakai perhiasan emas."
+      },
+      "unique_id": "2056ac0f-4d1f-73a9-52ef-815658dacc68"
     },
     {
       "start_date": {
