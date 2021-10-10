@@ -78,6 +78,12 @@ var data =
         "format": "year",
         "format_short": "year"
       },
+      "end_date": {
+        "year": -12000,
+        "date_obj": "-012001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
       "media": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Austroasiatic-en.svg/600px-Austroasiatic-en.svg.png",
         "caption": "",
@@ -93,7 +99,7 @@ var data =
         "headline": "Gelombang II",
         "text": "Gelombang kedua adalah kontribusi dari Asia daratan. Ini adalah kelompok yang menuturkan Bahasa Astroasiatrik. Mereka berpindah ke selatan masuk ke Nusantara dari daratan Aisa melewati Semenanjung Malaya. Saat itu, Semenanjung Malaya masih menyatu dengan Sumatera, Jawa dan Kalimantan."
       },
-      "unique_id": "c4fc2f90-14b8-9ff5-a8ee-84fc2998c546"
+      "unique_id": "861abbdd-9c35-3264-d208-8394ef2e6d1d"
     },
     {
       "start_date": {
@@ -121,9 +127,9 @@ var data =
       },
       "text": {
         "headline": "Sundaland Tenggelam",
-        "text": "Benua Sundaland tenggelam pelan-pelan dari 18 ribu tahun lalu masa Last Glacial ke masa Holocene"
+        "text": "Benua Sundaland tenggelam pelan-pelan dari 18 ribu tahun lalu masa Last Glacial ke masa Holocene\n<br><br>\nProses ini mengakibatkan manusia gelombang I, bermigrasi ke arah timur. Lalu datanglah migrasi gelombang II.\nBisa saja terjadi saling perang, saling bunuh, atau sebaliknya saling kawin.\n<br>\nShg memunculkan suku di Papua yg masih mendekati bentuk fisik leluhur gelombang I di Afrika."
       },
-      "unique_id": "54e22ebc-6acf-e87f-6896-12fa2bf2a37e"
+      "unique_id": "8940d8cc-a1b8-0edc-59e2-cd0a6230cf01"
     },
     {
       "start_date": {
@@ -158,7 +164,7 @@ var data =
       },
       "media": {
         "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1532044863/ui19vk2m7q0dbauktzm6.jpg",
-        "caption": "",
+        "caption": "Suku Formosa",
         "thumbnail": "",
         "link": "https://kumparan.com/kumparantravel/suku-formosa-penduduk-asli-taiwan-yang-mirip-suku-dayak-di-indonesia-27431110790551506",
         "mediatype": {
@@ -168,10 +174,10 @@ var data =
         }
       },
       "text": {
-        "headline": "Formosa Taiwan",
-        "text": "Pengembara Austronesia dari Cina daratan sampai di Pulau Formosa, atau Taiwan sekarang."
+        "headline": "Formosa",
+        "text": "Para penjelajah Austronesian tiba di pulau Formosa"
       },
-      "unique_id": "1cc134e8-2251-f618-0752-39597eb31f3f"
+      "unique_id": "e80b45fb-6fc4-c391-1898-1bdd5ff5f3fe"
     },
     {
       "start_date": {
