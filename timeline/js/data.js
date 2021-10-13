@@ -174,10 +174,10 @@ var data =
         }
       },
       "text": {
-        "headline": "Formosa",
+        "headline": "Formosa (Taiwan)",
         "text": "Para penjelajah Austronesian tiba di pulau Formosa.\n<br><br>\nSuku Formosa merupakan kelompok orang berbahasa Austronesia yang terbagi menjadi belasan suku. Suku-suku pecahan dari suku Formosa memiliki perawakan yang sama dengan suku Dayak di Kalimantan, Indonesia dan tinggal di berbagai tempat di Taiwan."
       },
-      "unique_id": "479acd9d-fe3e-bcb9-c901-60afff4803e0"
+      "unique_id": "ff263d87-d114-7a6f-f6e6-137581477437"
     },
     {
       "start_date": {
@@ -343,16 +343,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Indischer_Maler_von_1780_001.jpg/440px-Indischer_Maler_von_1780_001.jpg",
         "caption": "",
         "thumbnail": "",
-        "link": ""
+        "link": "https://en.wikipedia.org/wiki/Ramayana",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
       },
       "text": {
         "headline": "Ramayana",
         "text": "Dalam teks Ramayana, tersebut Suvarna-rupyakam dan Yavadvipam, dihiasi sapta-rajya-upasobhitam.\n<br>\nCara mencapainya disebut dengan melalui pegunungan, dengan berenang atau dengan sampan kecil."
       },
-      "unique_id": "63fe1a14-68d7-0a71-5604-5f2eb2db2993"
+      "unique_id": "8d6a6563-4555-3eb4-2935-c9301f265943"
     },
     {
       "start_date": {
@@ -398,16 +403,21 @@ var data =
         "format_short": "year"
       },
       "media": {
-        "url": "",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Claudius_Ptolemy-_The_World.jpg/480px-Claudius_Ptolemy-_The_World.jpg",
         "caption": "",
         "thumbnail": "",
-        "link": ""
+        "link": "https://en.wikipedia.org/wiki/Ptolemy",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
       },
       "text": {
         "headline": "Geography Claudius Ptolemy",
         "text": "Seorang cendekia Romawi Kuno, Claudius Ptolemy, dalam karyanya Geography menulis ada tempat bernama Aurea Cersonese, The Golden Peninsula.\n<br>\nSebuah tempat setelah Sungai Gangga India. Disebut Aurea Cersonese, atau Golden Peninsula, karena ditempat ini adalah pulau dengan penduduk yang semuanya memakai perhiasan emas."
       },
-      "unique_id": "2056ac0f-4d1f-73a9-52ef-815658dacc68"
+      "unique_id": "a75aa803-8d2f-7cce-14f4-0bcab98e376c"
     },
     {
       "start_date": {
