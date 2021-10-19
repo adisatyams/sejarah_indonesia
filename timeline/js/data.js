@@ -517,6 +517,60 @@ var data =
     },
     {
       "start_date": {
+        "year": 100,
+        "date_obj": "0099-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": 683,
+        "date_obj": "0682-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Malay_Kingdoms_id.svg/1920px-Malay_Kingdoms_id.svg.png",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Kerajaan_Melayu",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Kerajaan Malayu",
+        "text": "Kerajaan Malayu berdiri di hilir Batang Hari. Kerajaan ini merupakan konfederasi dari para pedagang-pedagang yang berasal dari pedalaman Minangkabau. Tahun 683, Malayu runtuh oleh serangan Sriwijaya.\n<br><br>\nPenggunaan kata Melayu, telah dikenal sekitar tahun 100-150 seperti yang tersebut dalam buku Geographike Sintaxis karya Ptolemy yang menyebutkan maleu-kolon.[4] Dan kemudian dalam kitab Hindu Purana pada zaman Gautama Buddha terdapat istilah Malaya dvipa yang bermaksud tanah yang dikelilingi air."
+      },
+      "unique_id": "0d6c4046-e875-6234-608d-5335bd2c4038"
+    },
+    {
+      "start_date": {
+        "year": 101,
+        "date_obj": "0100-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Candi_Batu_Pahat_of_Bujang_Valley.jpg/500px-Candi_Batu_Pahat_of_Bujang_Valley.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Lembah_Bujang",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Kerajaan Kedah - Malaysia",
+        "text": "Lembah Bujang adalah sebuah susunan batu dan pelataran yang diklaim sebagai bekas peninggalan sebuah candi di kawasan situs purbakala Lembah Bujang, yang dipercayai sebagai peninggalan kerajaan Kedah,[butuh rujukan] Malaysia. Kompleks susunan batu Lembah Bujang adalah satu-satunya kawasan yang diklaim sebagai peninggalan purbakala yang ditemukan di Malaysia."
+      },
+      "unique_id": "67a2e5f4-dea3-2b78-9e52-1bd7bbd1e8b9"
+    },
+    {
+      "start_date": {
         "year": 130,
         "date_obj": "0129-12-31T16:52:48.000Z",
         "format": "year",
@@ -547,22 +601,16 @@ var data =
     },
     {
       "start_date": {
-        "year": 350,
-        "date_obj": "0349-12-31T16:52:48.000Z",
-        "format": "year",
-        "format_short": "year"
-      },
-      "end_date": {
-        "year": 1605,
-        "date_obj": "1604-12-31T16:52:48.000Z",
+        "year": 300,
+        "date_obj": "0299-12-31T16:52:48.000Z",
         "format": "year",
         "format_short": "year"
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Prasasti-Yupa02.jpg/440px-Prasasti-Yupa02.jpg",
-        "caption": "Yupa",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Prasasti-Yupa02.jpg/440px-Prasasti-Yupa02.jpg",
-        "link": "https://id.wikipedia.org/wiki/Kerajaan_Kutai_Martapura",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Faxian_at_Daishō-in_Temple.jpg/2560px-Faxian_at_Daishō-in_Temple.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Fa_Hsien",
         "mediatype": {
           "type": "image",
           "name": "Image",
@@ -570,10 +618,10 @@ var data =
         }
       },
       "text": {
-        "headline": "Kutai",
-        "text": "Kutai Martapura adalah kerajaan bercorak Hindu di Nusantara yang memiliki bukti sejarah tertua. Berdiri sekitar abad ke-4. Pusat Kerajaan ini terletak di Muara Kaman, Kalimantan Timur, tepatnya di hulu sungai Mahakam."
+        "headline": "Hubungan dagang Tiongkok",
+        "text": "Telah dilakukannya hubungan pelayaran niaga yang melintasi Tiongkok. Dibuktikan dengan perjalanan dua pendeta Budha yaitu Fa Shien dan Gunavarman. Hubungan dagang ini telah lazim dilakukan, barang-barang yang diperdagangkan kemenyan, kayu cendana, hasil kerajinan."
       },
-      "unique_id": "030b8dc3-d62d-b9ff-2975-d707faaa6537"
+      "unique_id": "c80cbe81-eedd-c55a-fd5a-62be7cd56e5a"
     },
     {
       "start_date": {
@@ -604,6 +652,66 @@ var data =
         "text": "Tarumanegara merupakan salah satu kerajaan tertua di Nusantara yang meninggalkan catatan sejarah dan peninggalan artefak di sekitar lokasi kerajaan, terlihat bahwa pada saat itu Kerajaan Taruma adalah kerajaan Hindu beraliran Wisnu. Kata tarumanagara berasal dari kata taruma dan nagara. Nagara artinya kerajaan atau negara sedangkan taruma berasal dari kata tarum yang merupakan nama sungai yang membelah Jawa Barat yaitu Ci Tarum. Pada muara Ci Tarum ditemukan percandian yang luas yaitu Percandian Batujaya dan Percandian Cibuaya yang diduga merupakan peradaban peninggalan Kerajaan Taruma."
       },
       "unique_id": "63b43d59-3584-9f4d-62b6-9b6b0e002cec"
+    },
+    {
+      "start_date": {
+        "year": 399,
+        "date_obj": "0398-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": 1635,
+        "date_obj": "1634-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Prasasti-Yupa02.jpg/440px-Prasasti-Yupa02.jpg",
+        "caption": "Yupa",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Prasasti-Yupa02.jpg/440px-Prasasti-Yupa02.jpg",
+        "link": "https://id.wikipedia.org/wiki/Kerajaan_Kutai_Martapura",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Kutai",
+        "text": "Kutai Martapura adalah kerajaan bercorak Hindu di Nusantara yang memiliki bukti sejarah tertua. Berdiri sekitar abad ke-4. Pusat Kerajaan ini terletak di Muara Kaman, Kalimantan Timur, tepatnya di hulu sungai Mahakam."
+      },
+      "unique_id": "4f0b1bd1-8e50-e7b5-bb3b-f32a4164a06a"
+    },
+    {
+      "start_date": {
+        "year": 441,
+        "date_obj": "0440-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": 563,
+        "date_obj": "0562-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://sultansinindonesieblog.files.wordpress.com/2017/04/1-sum-1707.jpg?w=363&h=244",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Kerajaan_Kandali",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Kerajaan Kandali",
+        "text": "Kerajaan Kandali atau Kantoli merupakan kerajaan yang belum dapat diidentifikasi lokasi keberadaannya. Mayoritas sejarawan berpendapat, Kandali (Kuntala) terdapat di pantai timur Sumatra di sekitar Jambi sekarang. Kerajaan ini muncul pada abad ke-5 - 6 Masehi, di mana hal ini merujuk dari sumber Tiongkok, yang menyatakan bahwa Kan-to-li (Kandali) telah berkali-kali mengirim utusan mulai tahun 441 – 563 Masehi. Pada abad ke-7 kerajaan ini menghilang, mungkin dikarenakan munculnya dua kerajaan lain di pantai timur Sumatra yakni; Malayu (Jambi) dan Sriwijaya (Palembang)."
+      },
+      "unique_id": "7c73c66b-ab87-e4e7-9f4e-b41eb6886243"
     },
     {
       "start_date": {
@@ -729,6 +837,30 @@ var data =
         "text": ""
       },
       "unique_id": "6491805f-eded-e7a5-6803-f18353fefc27"
+    },
+    {
+      "start_date": {
+        "year": 671,
+        "date_obj": "0670-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yi_Jing.JPG",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Yijing_(rahib)",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Pendeta Buddha I-Tsing singgah",
+        "text": "Seorang pendeta Budha dari Tiongkok, bernama I-Tsing berangkat dari Kanton ke India. Ia singgah di Sriwijaya untuk belajar tata bahasa Sanskerta, kemudian ia singgah di Malayu selama dua bulan, dan baru melanjutkan perjalanannya ke India."
+      },
+      "unique_id": "fe4192fd-9719-90fc-a174-e6ddf0774089"
     },
     {
       "start_date": {
