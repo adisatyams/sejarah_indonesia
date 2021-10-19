@@ -283,6 +283,30 @@ var data =
     },
     {
       "start_date": {
+        "year": -1750,
+        "date_obj": "-001751-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1576978123/nml3uzu9qf2odsm1gdpp.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://kebudayaan.kemdikbud.go.id/bpcbjambi/pertanggalan-megalitik-pasemah/",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Sumatra",
+        "text": "Autronesia kemungkinan bercampur dengan gelombang II yang sblmrnya sudah tinggal. Bukti sejarahnya bisa dirunut dari Arca-arca Megalitik di Pasemah."
+      },
+      "unique_id": "d378689c-b4de-269d-2d80-603f3fb78a55"
+    },
+    {
+      "start_date": {
         "year": -1500,
         "date_obj": "-001501-12-31T16:52:48.000Z",
         "format": "year",
