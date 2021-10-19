@@ -97,9 +97,9 @@ var data =
       },
       "text": {
         "headline": "Gelombang II",
-        "text": "Gelombang kedua adalah kontribusi dari Asia daratan. Ini adalah kelompok yang menuturkan Bahasa Astroasiatrik. Mereka berpindah ke selatan masuk ke Nusantara dari daratan Aisa melewati Semenanjung Malaya. Saat itu, Semenanjung Malaya masih menyatu dengan Sumatera, Jawa dan Kalimantan."
+        "text": "Gelombang kedua adalah kontribusi dari Asia daratan. Ini adalah kelompok yang menuturkan Bahasa Astroasiatrik. Mereka berpindah ke selatan masuk ke Nusantara dari daratan Asia melewati Semenanjung Malaya. Saat itu, Semenanjung Malaya masih menyatu dengan Sumatera, Jawa dan Kalimantan."
       },
-      "unique_id": "861abbdd-9c35-3264-d208-8394ef2e6d1d"
+      "unique_id": "211cdbbd-b098-a7c5-1d85-3935d9189111"
     },
     {
       "start_date": {
@@ -235,6 +235,30 @@ var data =
     },
     {
       "start_date": {
+        "year": -2900,
+        "date_obj": "-002901-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://jernih.co/wp-content/uploads/download-2-4.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://jernih.co/potpourri/lore-lindu-surga-megalitik-terluas-di-indonesia/",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Lore Lindu",
+        "text": "Para penjelajah Austronesians meninggalkan jejak peradaban di Lore Lindu, situs megalitik terluas di Indonesia."
+      },
+      "unique_id": "bcbb38ac-7228-8c16-58c0-3f89d36145cb"
+    },
+    {
+      "start_date": {
         "year": -2500,
         "date_obj": "-002501-12-31T16:52:48.000Z",
         "format": "year",
@@ -283,13 +307,37 @@ var data =
     },
     {
       "start_date": {
+        "year": -1990,
+        "date_obj": "-001991-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://awsimages.detik.net.id/community/media/visual/2019/03/09/0b885bcf-ecd0-4d59-8254-c2ea85d41097_169.png?w=780&q=90",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://travel.detik.com/destination/d-4460138/situs-pekauman-mesin-waktu-ke-zaman-prasejarah",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Situs Megalitik di Jawa",
+        "text": "Penjelajah Austronesians meninggalkan jejak peradaban megalitik, salah satunya di Pekauman, Bondowoso"
+      },
+      "unique_id": "4d00b124-1d93-1e6c-1884-7f21a637826d"
+    },
+    {
+      "start_date": {
         "year": -1750,
         "date_obj": "-001751-12-31T16:52:48.000Z",
         "format": "year",
         "format_short": "year"
       },
       "media": {
-        "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1576978123/nml3uzu9qf2odsm1gdpp.jpg",
+        "url": "https://cdn.timesmedia.co.id/images/2020/02/12/Peninggalan-Megelitik.jpg",
         "caption": "",
         "thumbnail": "",
         "link": "https://kebudayaan.kemdikbud.go.id/bpcbjambi/pertanggalan-megalitik-pasemah/",
@@ -301,9 +349,9 @@ var data =
       },
       "text": {
         "headline": "Sumatra",
-        "text": "Autronesia kemungkinan bercampur dengan gelombang II yang sblmrnya sudah tinggal. Bukti sejarahnya bisa dirunut dari Arca-arca Megalitik di Pasemah."
+        "text": "Autronesia kemungkinan bercampur dengan gelombang II yang sebelumnya sudah tinggal. Bukti sejarahnya bisa dirunut dari Arca-arca Megalitik di Pasemah."
       },
-      "unique_id": "d378689c-b4de-269d-2d80-603f3fb78a55"
+      "unique_id": "6183af92-2581-2f03-7542-2f4289e25424"
     },
     {
       "start_date": {
@@ -352,6 +400,30 @@ var data =
         "text": "Para penjelajah Austronesia sampai di Pulau Sumatra.<br>\nJejaknya masih terlihat jelas di Nias."
       },
       "unique_id": "187c9024-5a9b-ede0-71c4-95ddf6ae585b"
+    },
+    {
+      "start_date": {
+        "year": -1390,
+        "date_obj": "-001391-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/COLLECTIE_TROPENMUSEUM_%27Het_verslepen_van_de_steen_%27Darodaro%27_voor_de_gestorven_Saoenigeho_van_Bawamataloea_Nias_TMnr_1000095b.jpg/2560px-COLLECTIE_TROPENMUSEUM_%27Het_verslepen_van_de_steen_%27Darodaro%27_voor_de_gestorven_Saoenigeho_van_Bawamataloea_Nias_TMnr_1000095b.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Tradisi_megalitik",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Tradisi Megalitik Nias",
+        "text": "Di Nias masih terdapat banyak kegiatan yang terkait monumen megalitik."
+      },
+      "unique_id": "d1d04e20-6c63-a628-8c93-e4add1fb8740"
     },
     {
       "start_date": {
