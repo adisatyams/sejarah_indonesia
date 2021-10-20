@@ -492,10 +492,10 @@ var data =
         }
       },
       "text": {
-        "headline": "Prediksi munculnya Ajaran Kasunyatan Jawa",
+        "headline": "Prediksi munculnya Ajaran Kasunyatan Jawa (Hipothesis)",
         "text": "Menurut buku Kawruh Jiwa, karya Muhaji Fikriono, hal 160, masyarakat Jawa mengenal ajaran Kasunyatan Jawa beserta dengan lahirnya huruf Jawa sekitar 900 tahun SM.\n<br><br> Mestinya sistem bahasa huruf Jawa yang dimaksud beda dengan yg kita kenal sekarang sbg turunan dari aksara Pallawa, tetapi konsepsi pangram hanacaraka nya kemungkinan sudah dikenal di era tsb.\n<br><br>\nHal ini cukup masuk akal, krn setelahnya, di Serat Ramayana, tertulis terkait Swarnadwipa dan Jawadwipa ini."
       },
-      "unique_id": "5c685516-a469-b82b-55fc-64c7c50e076f"
+      "unique_id": "3b24b273-14f7-c837-f341-2770e8f14b37"
     },
     {
       "start_date": {
@@ -514,7 +514,7 @@ var data =
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Indischer_Maler_von_1780_001.jpg/440px-Indischer_Maler_von_1780_001.jpg",
         "caption": "",
         "thumbnail": "",
-        "link": "https://en.wikipedia.org/wiki/Ramayana",
+        "link": "https://www.livehistoryindia.com/story/history-daily/yatra-bali/",
         "mediatype": {
           "type": "image",
           "name": "Image",
@@ -525,7 +525,7 @@ var data =
         "headline": "Ramayana",
         "text": "Dalam teks Ramayana, tersebut Suvarna-rupyakam dan Yavadvipam, dihiasi sapta-rajya-upasobhitam.\n<br>\nCara mencapainya disebut dengan melalui pegunungan, dengan berenang atau dengan sampan kecil."
       },
-      "unique_id": "8d6a6563-4555-3eb4-2935-c9301f265943"
+      "unique_id": "378ea4b6-85e3-fad2-498e-dfa876ec46ff"
     },
     {
       "start_date": {
@@ -535,10 +535,10 @@ var data =
         "format_short": "year"
       },
       "end_date": {
-        "year": 0,
-        "date_obj": "-000001-12-31T16:52:48.000Z",
-        "format": "",
-        "format_short": ""
+        "year": 5,
+        "date_obj": "0004-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
       },
       "media": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Buni_Culture_Pottery_3.jpg",
@@ -555,7 +555,31 @@ var data =
         "headline": "Kebudayaan Buni (protosejarah pesisir utara Banten dan Jawa Barat)",
         "text": "Kebudayaan Buni adalah sebutan bagi suatu kebudayaan protosejarah di pesisir utara Banten dan Jawa Barat yang muncul pada masa akhir pra-Masehi hingga sekitar abad ke-5 Masehi. Kebudayaan ini dinamai berdasarkan lokasi penemuan pertamanya di Buni, Babelan, Bekasi di sebelah timur Jakarta.\n<br><br>\nKeramik Buni mirip corak Sa Huynh dari Vietnam.\n<br><br>\nCiri-ciri dari kebudayaan prasejarah ini adalah banyaknya penggunaan gerabah seperti piring, periuk, kendi, serta peralatan sehari-hari lainnya. Beberapa unsur tradisi megalitikum dapat juga dilihat, seperti penyertaan bekal kubur, mayat yang dilengkapi manik-manik, serta beberapa menhir dan dolmen. Masyarakat pendukung kebudayaan Buni diperkirakan telah mengadakan hubungan perdagangan dengan bangsa lain. Kerajaan Taruma dianggap sebagai kerajaan yang masih menggunakan banyak unsur kebudayaan ini, meskipun penguasanya telah menganut agama Hindu."
       },
-      "unique_id": "d1c31384-6629-391e-5297-3e01db94752f"
+      "unique_id": "fca8ede9-2030-e694-840b-d41e5d35a92b"
+    },
+    {
+      "start_date": {
+        "year": 5,
+        "date_obj": "0004-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://mmc.tirto.id/image/otf/700x0/2018/07/21/letusan-anak-krakatau--antara_ratio-16x9.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://tirto.id/sejarah-erupsi-gunung-krakatau-purba-konon-membelah-jawa-sumatra-dcEU",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Ledakan Krakatau Purba",
+        "text": "Dalam naskah Jawa kuno bertajuk Pustaka Raja Parwa, diperkirakan ditulis pada awal abad ke-5 M, tertulis: “Ada suara guntur yang menggelegar berasal dari Gunung Batuwara. Ada pula goncangan bumi yang menakutkan, kegelapan total, petir dan kilat. Kemudian datang badai angin dan hujan yang mengerikan dan seluruh badai menggelapkan seluruh dunia.”\n<br><br>\nDampak letusan dahsyat Gunung Krakatau Purba dirasakan hingga ke berbagai penjuru dunia. Bahkan, simpul David Keys dalam risetnya bertajuk Catastrophe: An Investigation Into the Origins of the Modern World (2000), peristiwa vulkanik di Asia Tenggara itu terkait dengan bencana alam yang menyebabkan perubahan besar di Eropa selama abad ke-6 dan ke-7 M."
+      },
+      "unique_id": "159a04af-bd3a-2dcf-503f-3e42b8ca493b"
     },
     {
       "start_date": {
