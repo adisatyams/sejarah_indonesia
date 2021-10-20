@@ -133,6 +133,30 @@ var data =
     },
     {
       "start_date": {
+        "year": -9000,
+        "date_obj": "-009001-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://cdn-2.tstatic.net/jogja/foto/bank/images/aktivitas-penelitian-di-gua-braholo_20171113_114905.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://kebudayaan.kemdikbud.go.id/bpcbyogyakarta/gua-braholo-gua-hunian-masa-pra-sejarah-di-gunung-sewu/",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Jejak Manusia Purba di Gua Braholo Gunung Kidul",
+        "text": "\"Tengkorak kepalanya itu lebih besar. Posisinya duduk, kakinya ditekuk, punggungnya menyatu satu sama lain,\" kata dia.\n<br><br>\nDosen Ilmu Sejarah Universitas Sanata Dharma Yogyakarta Hery Santosa mengatakan, penemuan itu bisa dilihat dari ketebalan tanah di dalam goa. Ketebalan tanah bisa menunjukkan tahun perkembangan manusia."
+      },
+      "unique_id": "6edc4a05-bccf-d18f-945a-3cf76eec5d94"
+    },
+    {
+      "start_date": {
         "year": -4000,
         "date_obj": "-004001-12-31T16:52:48.000Z",
         "format": "year",
@@ -328,6 +352,30 @@ var data =
         "text": "Penjelajah Austronesians meninggalkan jejak peradaban megalitik, salah satunya di Pekauman, Bondowoso"
       },
       "unique_id": "4d00b124-1d93-1e6c-1884-7f21a637826d"
+    },
+    {
+      "start_date": {
+        "year": -1990,
+        "date_obj": "-001991-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://cdn-2.tstatic.net/surabaya/foto/bank/images/berita-jogja-yogyakarta-menhir-gunungkidul_20161122_012822.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://surabaya.tribunnews.com/2016/11/22/benda-misterius-ini-ternyata-milik-manusia-jawa-zaman-2000-tahun-sebelum-masehi",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Menhir di Gunung Kidul",
+        "text": "Sebuah benda yang semula misterius ditemukan terpendam di sekitar pemakaman umum Dusun Sokoliman II, Bejiharjo, Karangmojo, Gunungkidul, Provinsi DI Yogyakarta.\n<br><br>\nBenda itu ternyata menhir yang ditemukan secara tidak sengaja. Panjangnya sekitar 4 meter. Ia merupakan penanda jejak peradaban manusia Jawa dari periode sebelum Masehi. "
+      },
+      "unique_id": "c940c1c7-3b0a-04f2-349c-1a623f2f5ec4"
     },
     {
       "start_date": {
