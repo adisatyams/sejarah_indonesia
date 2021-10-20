@@ -427,6 +427,30 @@ var data =
     },
     {
       "start_date": {
+        "year": -900,
+        "date_obj": "-000901-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1614531061/gnsfnck4oyxwf4xnewna.png",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://kumparan.com/berita-terkini/sejarah-kalender-jawa-yang-legendaris-1vGZEkdsojs/full",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Prediksi munculnya Ajaran Kasunyatan Jawa",
+        "text": "Menurut buku Kawruh Jiwa, karya Muhaji Fikriono, hal 160, masyarakat Jawa mengenal ajaran Kasunyatan Jawa beserta dengan lahirnya huruf Jawa sekitar 900 tahun SM.\n<br><br> Mestinya sistem bahasa huruf Jawa yang dimaksud beda dengan yg kita kenal sekarang sbg turunan dari aksara Pallawa, tetapi konsepsi pangram hanacaraka nya kemungkinan sudah dikenal di era tsb.\n<br><br>\nHal ini cukup masuk akal, krn setelahnya, di Kitab Ramayana, tertulis terkait Swarnadwipa dan Jawadwipa ini."
+      },
+      "unique_id": "e316d2cf-0ccc-052e-980f-11725378ea7e"
+    },
+    {
+      "start_date": {
         "year": -700,
         "date_obj": "-000701-12-31T16:52:48.000Z",
         "format": "year",
