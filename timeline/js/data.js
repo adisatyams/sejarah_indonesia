@@ -445,9 +445,9 @@ var data =
       },
       "text": {
         "headline": "Prediksi munculnya Ajaran Kasunyatan Jawa",
-        "text": "Menurut buku Kawruh Jiwa, karya Muhaji Fikriono, hal 160, masyarakat Jawa mengenal ajaran Kasunyatan Jawa beserta dengan lahirnya huruf Jawa sekitar 900 tahun SM.\n<br><br> Mestinya sistem bahasa huruf Jawa yang dimaksud beda dengan yg kita kenal sekarang sbg turunan dari aksara Pallawa, tetapi konsepsi pangram hanacaraka nya kemungkinan sudah dikenal di era tsb.\n<br><br>\nHal ini cukup masuk akal, krn setelahnya, di Kitab Ramayana, tertulis terkait Swarnadwipa dan Jawadwipa ini."
+        "text": "Menurut buku Kawruh Jiwa, karya Muhaji Fikriono, hal 160, masyarakat Jawa mengenal ajaran Kasunyatan Jawa beserta dengan lahirnya huruf Jawa sekitar 900 tahun SM.\n<br><br> Mestinya sistem bahasa huruf Jawa yang dimaksud beda dengan yg kita kenal sekarang sbg turunan dari aksara Pallawa, tetapi konsepsi pangram hanacaraka nya kemungkinan sudah dikenal di era tsb.\n<br><br>\nHal ini cukup masuk akal, krn setelahnya, di Serat Ramayana, tertulis terkait Swarnadwipa dan Jawadwipa ini."
       },
-      "unique_id": "e316d2cf-0ccc-052e-980f-11725378ea7e"
+      "unique_id": "5c685516-a469-b82b-55fc-64c7c50e076f"
     },
     {
       "start_date": {
