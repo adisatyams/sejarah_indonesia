@@ -3,18 +3,13 @@ var data =
   "title": {
     "text": {
       "headline": "Tutur Tinular Sejarah Indonesia",
-      "text": "Lini masa sejarah, bagaimana Indonesia sekarang bisa menjadi muara peradaban dunia"
+      "text": "Lini masa sejarah, bagaimana Indonesia sekarang bisa menjadi muara peradaban dunia<br>\nKritik dan saran bisa melalui twitter @adisatya"
     },
     "media": {
       "url": "",
       "caption": "",
       "thumbnail": "",
-      "link": "",
-      "mediatype": {
-        "type": "image",
-        "name": "Image",
-        "match_str": {}
-      }
+      "link": ""
     },
     "background": {
       "url": "https://3.bp.blogspot.com/-lOKCRqfcTko/XMWeWJp2juI/AAAAAAAAEGQ/djzuS6s3SWcDnctsq0Aoa3LvgfrIIxJyQCLcBGAs/s640/nfhfjfhfhrthrthrthrbfhfhth.jpg",
