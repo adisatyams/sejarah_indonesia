@@ -608,6 +608,30 @@ var data =
     },
     {
       "start_date": {
+        "year": 5,
+        "date_obj": "0004-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://youtu.be/kKVwSpKz5rM",
+        "caption": "",
+        "thumbnail": "",
+        "link": "",
+        "mediatype": {
+          "type": "youtube",
+          "name": "YouTube",
+          "match_str": "^(https?:)?/*(www.)?youtube|youtu.be"
+        }
+      },
+      "text": {
+        "headline": "Suluk Bumi Gonjang-ganjing",
+        "text": "Di pertunjukan wayang kita sering menemui suluk bumi gonjang ganjing ini, sbg pertanda goro-goro, atau pertanda bencana.\n<br><br>\nIni adalah ungkapan tersirat yang tertanam di dalam ingatan masyarakat Jawa, atas kejadian yang begitu dahsyat di masa lalu.\n<br><br>\nEntah kapan suluk ini pertama ada, tetapi jelas suluk ini terkait kejadian alam seperti gunung meletus."
+      },
+      "unique_id": "5acc43a0-1108-2c50-e78c-c076f01a4873"
+    },
+    {
+      "start_date": {
         "year": 100,
         "date_obj": "0099-12-31T16:52:48.000Z",
         "format": "year",
