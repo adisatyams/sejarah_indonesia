@@ -523,9 +523,34 @@ var data =
       },
       "text": {
         "headline": "Ramayana",
-        "text": "Dalam teks Ramayana, tersebut Suvarna-rupyakam dan Yavadvipam, dihiasi sapta-rajya-upasobhitam.\n<br>\nCara mencapainya disebut dengan melalui pegunungan, dengan berenang atau dengan sampan kecil."
+        "text": "Dalam teks Ramayana, tersebut Suvarna-rupyakam dan Yavadvipam, dihiasi sapta-rajya-upasobhitam.\n<br>\nCara mencapainya disebut dengan melalui pegunungan, dengan berenang atau dengan sampan kecil.\n<br><br>\nPara sejarawan memperkirakan cerita Ramayana ini ditulis sekitar abad ke 7 sampai abad ke 4 SM."
       },
-      "unique_id": "378ea4b6-85e3-fad2-498e-dfa876ec46ff"
+      "unique_id": "cfa8471a-0ee6-18c6-8161-961c54981163"
+    },
+    {
+      "start_date": {
+        "year": -700,
+        "date_obj": "-000701-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": 5,
+        "date_obj": "0004-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "",
+        "caption": "",
+        "thumbnail": "",
+        "link": ""
+      },
+      "text": {
+        "headline": "Kerajaan Swarnadwipa dan Jawadwipa",
+        "text": "Ini hipothesis saja, atau bisa jg disebut pseudo-history jg boleh.\n<br><br>\nAnggap sy buat novel tentang 99 bintang di Fukhusima, tahun 2000. Ternyata 2011, Fukushima ada bencana nuklir, lalu semua mengungsi.\n<br><br>\nAsumsi sy, ada peradaban yg sudah tertulis di serat Ramayana, tapi hilang karena letusan gunung Krakatau Purba.\n<br><br>\nMana buktinya ? Bisa saja buktinya terkubur letusan gunung berapi, atau tanah karena sudah ditinggal ratusan tahun. Apalagi jika berupa tulisan di kayu / lontar, otomatis hilang."
+      },
+      "unique_id": "55659e06-8337-836d-a7e3-cb0ce308e193"
     },
     {
       "start_date": {
