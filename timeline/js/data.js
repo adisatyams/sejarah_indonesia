@@ -543,9 +543,9 @@ var data =
       },
       "text": {
         "headline": "Kerajaan Swarnadwipa dan Jawadwipa",
-        "text": "Ini hipothesis saja, atau bisa jg disebut pseudo-history jg boleh.\n<br><br>\nAnggap sy buat novel tentang 99 bintang di Fukhusima, tahun 2000. Ternyata 2011, Fukushima ada bencana nuklir, lalu semua mengungsi.\n<br><br>\nAsumsi sy, ada peradaban yg sudah tertulis di serat Ramayana, tapi hilang karena letusan gunung Krakatau Purba.\n<br><br>\nMana buktinya ? Bisa saja buktinya terkubur letusan gunung berapi, atau tanah karena sudah ditinggal ratusan tahun. Apalagi jika berupa tulisan di kayu / lontar, otomatis hilang."
+        "text": "Ini hipothesis saja, atau bisa disebut pseudo-history boleh.\n<br><br>\nAnggap saya buat novel tentang 99 bintang di Fukhusima, tahun 2000. Ternyata 2011, Fukushima ada bencana nuklir, lalu semua mengungsi.\n<br><br>\nAsumsi saya, ada peradaban yg sudah tertulis di serat Ramayana, tapi hilang karena letusan gunung Krakatau Purba.\n<br><br>\nMana buktinya ? Bisa saja buktinya terkubur letusan gunung berapi, atau tanah karena sudah ditinggal ratusan tahun. Apalagi jika berupa tulisan di kayu / lontar, otomatis hilang."
       },
-      "unique_id": "55659e06-8337-836d-a7e3-cb0ce308e193"
+      "unique_id": "27e34a70-75fe-6ea9-89a1-f798606f730c"
     },
     {
       "start_date": {
@@ -662,17 +662,11 @@ var data =
         "format": "year",
         "format_short": "year"
       },
-      "end_date": {
-        "year": 683,
-        "date_obj": "0682-12-31T16:52:48.000Z",
-        "format": "year",
-        "format_short": "year"
-      },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Malay_Kingdoms_id.svg/1920px-Malay_Kingdoms_id.svg.png",
+        "url": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/12/24/1013556588.png",
         "caption": "",
         "thumbnail": "",
-        "link": "https://id.wikipedia.org/wiki/Kerajaan_Melayu",
+        "link": "https://nationalgeographic.grid.id/read/132482851/jung-jawa-kapal-raksasa-penguasa-lautan-nusantara-yang-telah-hilang?page=all",
         "mediatype": {
           "type": "image",
           "name": "Image",
@@ -680,10 +674,10 @@ var data =
         }
       },
       "text": {
-        "headline": "Kerajaan Malayu",
-        "text": "Kerajaan Malayu berdiri di hilir Batang Hari. Kerajaan ini merupakan konfederasi dari para pedagang-pedagang yang berasal dari pedalaman Minangkabau. Tahun 683, Malayu runtuh oleh serangan Sriwijaya.\n<br><br>\nPenggunaan kata Melayu, telah dikenal sekitar tahun 100-150 seperti yang tersebut dalam buku Geographike Sintaxis karya Ptolemy yang menyebutkan maleu-kolon.[4] Dan kemudian dalam kitab Hindu Purana pada zaman Gautama Buddha terdapat istilah Malaya dvipa yang bermaksud tanah yang dikelilingi air."
+        "headline": "Kolandiaphonta atau Jung Jawa",
+        "text": "Sebelum teknologi pelayaran dikuasai bangsa Eropa, Indonesia telah memiliki teknologi perkapalan yang menakjubkan. Hal ini diakui oleh seorang astronomer kesohor dari Yunani bernama Claudius Ptolemaeus menyebutnya kolandiaphonta, yang berarti kapal dari Sumatera atau Jawa.\n<br><br>\nDibalik perawakan Jung Jawa yang besar bak raksasa, kapal ini dibangun dengan teknik yang cukup unik. Alih-alih menggunakan paku atau besi, kerangka Jung Jawa menggunakan pasak untuk merekatkan bagian kapal satu sama lain.\n<br><br>\nKapal ini terdiri dari empat tiang layar dan dinding besar yang merupakan gabungan dari empat lapis kayu jati. Jung Jawa juga menggunakan bermacam layar, mulai dari dua layar hingga empat layar besar, lengkap dengan sebuah busur besar sebagai kemudi angin."
       },
-      "unique_id": "0d6c4046-e875-6234-608d-5335bd2c4038"
+      "unique_id": "25b7d77c-7ba2-44fd-678c-2c1e587abac5"
     },
     {
       "start_date": {
@@ -708,6 +702,36 @@ var data =
         "text": "Lembah Bujang adalah sebuah susunan batu dan pelataran yang diklaim sebagai bekas peninggalan sebuah candi di kawasan situs purbakala Lembah Bujang, yang dipercayai sebagai peninggalan kerajaan Kedah,[butuh rujukan] Malaysia. Kompleks susunan batu Lembah Bujang adalah satu-satunya kawasan yang diklaim sebagai peninggalan purbakala yang ditemukan di Malaysia."
       },
       "unique_id": "67a2e5f4-dea3-2b78-9e52-1bd7bbd1e8b9"
+    },
+    {
+      "start_date": {
+        "year": 110,
+        "date_obj": "0109-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "end_date": {
+        "year": 683,
+        "date_obj": "0682-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Malay_Kingdoms_id.svg/1920px-Malay_Kingdoms_id.svg.png",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Kerajaan_Melayu",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Kerajaan Malayu",
+        "text": "Kerajaan Malayu berdiri di hilir Batang Hari. Kerajaan ini merupakan konfederasi dari para pedagang-pedagang yang berasal dari pedalaman Minangkabau. Tahun 683, Malayu runtuh oleh serangan Sriwijaya.\n<br><br>\nPenggunaan kata Melayu, telah dikenal sekitar tahun 100-150 seperti yang tersebut dalam buku Geographike Sintaxis karya Ptolemy yang menyebutkan maleu-kolon. Dan kemudian dalam kitab Hindu Purana pada zaman Gautama Buddha terdapat istilah Malaya dvipa yang bermaksud tanah yang dikelilingi air."
+      },
+      "unique_id": "f4f5eb8d-d625-8a0d-c7d4-d3e4ce52d86b"
     },
     {
       "start_date": {
@@ -738,30 +762,6 @@ var data =
         "text": "Riwayat Kerajaan Salakanagara memang berselimut misteri yang cukup pekat. Tak hanya soal mitos Argyre, hal-hal lain terkait kerajaan yang didirikan pada 130 M –tepat 20 tahun sebelum Ptolemaeus menerbitkan Geographia– ini masih menjadi perdebatan di kalangan peneliti dan pakar sejarah.\n\nPerdebatan yang paling mendasar adalah keyakinan bahwa Salakanagara merupakan kerajaan tertua di Nusantara (Halwany Michrob, dkk., Catatan Masa Lalu Banten, 1993:33). Sementara yang lebih umum diketahui tentang kerajaan paling awal di kepulauan ini adalah Kutai Martadipura di Kalimantan Timur."
       },
       "unique_id": "4bf74e2a-c6e0-ff9f-401f-282be571e72a"
-    },
-    {
-      "start_date": {
-        "year": 300,
-        "date_obj": "0299-12-31T16:52:48.000Z",
-        "format": "year",
-        "format_short": "year"
-      },
-      "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Faxian_at_Daishō-in_Temple.jpg/2560px-Faxian_at_Daishō-in_Temple.jpg",
-        "caption": "",
-        "thumbnail": "",
-        "link": "https://id.wikipedia.org/wiki/Fa_Hsien",
-        "mediatype": {
-          "type": "image",
-          "name": "Image",
-          "match_str": {}
-        }
-      },
-      "text": {
-        "headline": "Hubungan dagang Tiongkok",
-        "text": "Telah dilakukannya hubungan pelayaran niaga yang melintasi Tiongkok. Dibuktikan dengan perjalanan dua pendeta Budha yaitu Fa Shien dan Gunavarman. Hubungan dagang ini telah lazim dilakukan, barang-barang yang diperdagangkan kemenyan, kayu cendana, hasil kerajinan."
-      },
-      "unique_id": "c80cbe81-eedd-c55a-fd5a-62be7cd56e5a"
     },
     {
       "start_date": {
@@ -822,6 +822,30 @@ var data =
         "text": "Kutai Martapura adalah kerajaan bercorak Hindu di Nusantara yang memiliki bukti sejarah tertua. Berdiri sekitar abad ke-4. Pusat Kerajaan ini terletak di Muara Kaman, Kalimantan Timur, tepatnya di hulu sungai Mahakam."
       },
       "unique_id": "4f0b1bd1-8e50-e7b5-bb3b-f32a4164a06a"
+    },
+    {
+      "start_date": {
+        "year": 400,
+        "date_obj": "0399-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Faxian_at_Daishō-in_Temple.jpg/2560px-Faxian_at_Daishō-in_Temple.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://id.wikipedia.org/wiki/Fa_Hsien",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Hubungan dagang Tiongkok",
+        "text": "Telah dilakukannya hubungan pelayaran niaga yang melintasi Tiongkok. Dibuktikan dengan perjalanan dua pendeta Budha yaitu Fa Shien dan Gunavarman. Hubungan dagang ini telah lazim dilakukan, barang-barang yang diperdagangkan kemenyan, kayu cendana, hasil kerajinan."
+      },
+      "unique_id": "aeb1d835-4686-5ce8-ca83-bb6c9c0773d8"
     },
     {
       "start_date": {
