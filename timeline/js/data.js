@@ -662,11 +662,17 @@ var data =
         "format": "year",
         "format_short": "year"
       },
+      "end_date": {
+        "year": 1655,
+        "date_obj": "1654-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
       "media": {
         "url": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/12/24/1013556588.png",
         "caption": "",
         "thumbnail": "",
-        "link": "https://nationalgeographic.grid.id/read/132482851/jung-jawa-kapal-raksasa-penguasa-lautan-nusantara-yang-telah-hilang?page=all",
+        "link": "https://indonesia.go.id/kategori/komoditas/1500/jong-sang-gargantua-dari-laut-jawa",
         "mediatype": {
           "type": "image",
           "name": "Image",
@@ -675,9 +681,9 @@ var data =
       },
       "text": {
         "headline": "Kolandiaphonta atau Jung Jawa",
-        "text": "Sebelum teknologi pelayaran dikuasai bangsa Eropa, Indonesia telah memiliki teknologi perkapalan yang menakjubkan. Hal ini diakui oleh seorang astronomer kesohor dari Yunani bernama Claudius Ptolemaeus menyebutnya kolandiaphonta, yang berarti kapal dari Sumatera atau Jawa.\n<br><br>\nDibalik perawakan Jung Jawa yang besar bak raksasa, kapal ini dibangun dengan teknik yang cukup unik. Alih-alih menggunakan paku atau besi, kerangka Jung Jawa menggunakan pasak untuk merekatkan bagian kapal satu sama lain.\n<br><br>\nKapal ini terdiri dari empat tiang layar dan dinding besar yang merupakan gabungan dari empat lapis kayu jati. Jung Jawa juga menggunakan bermacam layar, mulai dari dua layar hingga empat layar besar, lengkap dengan sebuah busur besar sebagai kemudi angin."
+        "text": "Sebelum teknologi pelayaran dikuasai bangsa Eropa, Indonesia telah memiliki teknologi perkapalan yang menakjubkan. Hal ini diakui oleh seorang astronomer kesohor dari Yunani bernama Claudius Ptolemaeus menyebutnya kolandiaphonta, yang berarti kapal dari Sumatera atau Jawa.\n<br><br>\nDibalik perawakan Jung Jawa yang besar bak raksasa, kapal ini dibangun dengan teknik yang cukup unik. Alih-alih menggunakan paku atau besi, kerangka Jung Jawa menggunakan pasak untuk merekatkan bagian kapal satu sama lain.\n<br><br>\nAnthony Reid berpendapat bahwa kegagalan Pati Unus di Malaka membawa pengaruh yang besar bagi hilangnya kapal-kapal besar dari galangan-galangan kapal di pesisir utara Jawa. Bergesernya kekuasaan Mataram ke pedalaman adalah salah satu yang membuat galangan-galangan kapal yang tersebar di pesisir ditinggalkan. Salah satu pukulan terbesar adalah saat penguasa Mataram menghancurkan sendiri kota-kota pesisir yang menyimpan peninggalan-peninggalan galangan.\n<br><br>\nPerintah Amangkurat I pada 1655, dicatat Rendra F Kurniawan (2009) sebagai kebijakan represif Mataram yang paling memukul kota-kota pesisir. Perintah dia untuk menutup pelabuhan dan menghancurkan kapal-kapal agar tidak memicu pemberontakan membuat punahnya lapisan ahli-ahli pembuat kapal yang sejak masa Demak sendiri sudah tinggal sisa-sisa."
       },
-      "unique_id": "25b7d77c-7ba2-44fd-678c-2c1e587abac5"
+      "unique_id": "dea4c8b4-7edf-7ced-e3d4-76f4607512eb"
     },
     {
       "start_date": {
@@ -758,10 +764,10 @@ var data =
         }
       },
       "text": {
-        "headline": "Salakanagara",
-        "text": "Riwayat Kerajaan Salakanagara memang berselimut misteri yang cukup pekat. Tak hanya soal mitos Argyre, hal-hal lain terkait kerajaan yang didirikan pada 130 M –tepat 20 tahun sebelum Ptolemaeus menerbitkan Geographia– ini masih menjadi perdebatan di kalangan peneliti dan pakar sejarah.\n\nPerdebatan yang paling mendasar adalah keyakinan bahwa Salakanagara merupakan kerajaan tertua di Nusantara (Halwany Michrob, dkk., Catatan Masa Lalu Banten, 1993:33). Sementara yang lebih umum diketahui tentang kerajaan paling awal di kepulauan ini adalah Kutai Martadipura di Kalimantan Timur."
+        "headline": "Salakanagara (Hipothesis)",
+        "text": "Riwayat Kerajaan Salakanagara memang berselimut misteri yang cukup pekat. Tak hanya soal mitos Argyre, hal-hal lain terkait kerajaan yang didirikan pada 130 M –tepat 20 tahun sebelum Ptolemaeus menerbitkan Geographia– ini masih menjadi perdebatan di kalangan peneliti dan pakar sejarah.\n<br><br>\nPerdebatan yang paling mendasar adalah keyakinan bahwa Salakanagara merupakan kerajaan tertua di Nusantara (Halwany Michrob, dkk., Catatan Masa Lalu Banten, 1993:33). Sementara yang lebih umum diketahui tentang kerajaan paling awal di kepulauan ini adalah Kutai Martadipura di Kalimantan Timur.\n<br><br>\nApakah ini negara yang sama yang tersebut baik di Serat Kakawin Ramayana maupun di catatan Claudius Ptolemy ?\nDengan nama Swarnadwipa atau Jawadwipa ?"
       },
-      "unique_id": "4bf74e2a-c6e0-ff9f-401f-282be571e72a"
+      "unique_id": "58d085d5-122f-c70f-c784-3fad9c070638"
     },
     {
       "start_date": {
@@ -1255,6 +1261,30 @@ var data =
         "text": "Masa pemerintahan Kesultanan Gowa"
       },
       "unique_id": "9f99a833-3736-138a-67d0-86790a1d84ed"
+    },
+    {
+      "start_date": {
+        "year": 1421,
+        "date_obj": "1420-12-31T16:52:48.000Z",
+        "format": "year",
+        "format_short": "year"
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/3d/LeVoyageAuxIndes.jpg",
+        "caption": "",
+        "thumbnail": "",
+        "link": "https://en.wikipedia.org/wiki/Niccolò_de%27_Conti",
+        "mediatype": {
+          "type": "image",
+          "name": "Image",
+          "match_str": {}
+        }
+      },
+      "text": {
+        "headline": "Ekspedisi Niccolo de Conti",
+        "text": "Nicolo de Conti, adalah seorang pedagang Italia, penjelajah dan penulis.\n<br>\nSekitar 1421 M, de Conti sampai di bagian Utara Sumatra, menghabiskan waktu selama setahun, dan mempelajari lingkungan sekitar, terutama terkait emas dan rempah-rempah."
+      },
+      "unique_id": "51d1c2c2-9118-672e-55a4-bf80066779d3"
     },
     {
       "start_date": {
