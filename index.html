@@ -1,15 +1,36 @@
-<html>
-    <head>
-        <meta charset="utf-8" />
-        <!-- TimelineJS -->
-        <link rel="stylesheet" href="timeline/css/timeline.css" />
-        <script src="timeline/js/timeline.js"></script>
-        <script src="timeline/js/data.js"></script>
-    </head>
-    <body>
-        <div id='timeline-embed' style="width: 100%; height: 100%"></div>
-        <script>
-            timeline = new TL.Timeline("timeline-embed", data);
-        </script>
-    </body>
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tutur Tinular Sejarah Indonesia</title>
+    <meta
+      name="description"
+      content="Lini masa sejarah Indonesia: dari letusan Toba, migrasi Austronesia, hingga kerajaan-kerajaan Nusantara."
+    />
+
+    <!-- TimelineJS -->
+    <link rel="stylesheet" href="timeline/css/timeline.css" />
+    <script src="timeline/js/timeline.js"></script>
+    <script src="timeline/js/data.js"></script>
+
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+      }
+      #timeline-embed {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="timeline-embed"></div>
+    <noscript>Halaman ini membutuhkan JavaScript untuk menampilkan lini masa.</noscript>
+    <script>
+      window.timeline = new TL.Timeline("timeline-embed", data);
+    </script>
+  </body>
 </html>
